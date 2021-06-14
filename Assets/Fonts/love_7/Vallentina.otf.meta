@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: ecf052d4efc39ec4488f74d44ff68b43
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Vallentina
+  fontNames:
+  - Vallentina
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 5c9d2ba1a5e213f458fce2bb4cafcf1f, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

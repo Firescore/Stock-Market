@@ -15,8 +15,8 @@ TagManager:
   - 
   - 
   - Ground
-  - 
-  - 
+  - Image Holder
+  - Post Processing
   - 
   - 
   - 
@@ -41,4 +41,10 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Text Holder
+    uniqueID: 458714059
+    locked: 0
+  - name: Text
+    uniqueID: 1135199071
     locked: 0

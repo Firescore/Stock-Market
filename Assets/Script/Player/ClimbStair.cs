@@ -9,6 +9,7 @@ public class ClimbStair : MonoBehaviour
     [SerializeField] GameObject stepRayDown;
     [SerializeField] float stepHeight = 0.1f;
     [SerializeField] float stepSmooth = 0.1f;
+    
     private void Awake()
     {
         rigidbody = GetComponent<Rigidbody>();
